@@ -14,12 +14,13 @@ I have 1 year and 4 months of professional experience. 1 year as PHP Developer a
 
 - [React.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/React_js.md)
 - [Node.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Node_js.md)
+- [Java](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Java.md)
 <!-- 
-- [Java](Java.md)
 - [jQuery and Bootstrap](jQuery_Bootstrap.md)
 - [Python](Python.md)
 - [Angular](Angular.md)
-- [PHP](PHP.md) -->
+- [PHP](PHP.md) 
+- -->
 
 # Libraries
 
