@@ -4,7 +4,7 @@ Bellow I will list the projects that I built with `React.js`.
 
 [**Post-Its Frontend**](https://github.com/arielalvesdutra/post-it-frontend).
 
-Project that I made to practice `React` to resolve a personal necessity that I had. I created this project in 2019 and I still add some features to this project in 2020.
+Project that I made to practice `React` and to resolve a personal necessity that I had. I created this project in 2019 and I still add some features to this project in 2020.
 
 
 [**react-very-simple-slider**](https://github.com/arielalvesdutra/react-very-simple-slider)
@@ -13,7 +13,7 @@ I created this project because I wanted to learn how to create a `NPM` package u
 
 [**Portfolio**](https://github.com/arielalvesdutra/arielalvesdutra.github.io)
 
-This is my website portfolio that I made with `React`, `Typescript` and `Automated Tests`.
+This is my website portfolio that I made with `React`, `Typescript` and `Automated Tests` (Jest).
 
 [**HCRPR**](https://github.com/arielalvesdutra/hcrpr-frontend)
 
