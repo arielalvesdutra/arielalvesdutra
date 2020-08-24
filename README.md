@@ -12,7 +12,7 @@ I have 1 year and 4 months of professional experience. 1 year as PHP Developer a
 
 # Skills
 
-- [React.js](React_js.md)
+- [React.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/React_js.md)
 <!-- - [Node.js](Node_js.md)
 - [Java](Java.md)
 - [jQuery and Bootstrap](jQuery_Bootstrap.md)
@@ -26,7 +26,7 @@ I have 1 year and 4 months of professional experience. 1 year as PHP Developer a
 
 # Tech Readings
 
-- [Tech Readings](Tech_readings.md)
+- [Tech Readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
 
 # More
 
