@@ -24,3 +24,8 @@ Project made with `Spring MVC 4`, `JSP` and `JSQL` for one page that presents a 
 [**Calling Tariff Challenge**](https://github.com/arielalvesdutra/calling-tariff-challenge-backend)
 
 Project made with `Java 8`, `Spring Boot 2.3`, `Hibernate`, `Maven`, `MySQL`, `H2`, `Lombok` and `TDD` to implement a challenge.
+
+
+[**API Instagram Challenge**](https://github.com/arielalvesdutra/api-instagram-challenge/)
+
+Project made with `Java 8`, `Spring Boot 2.3`, `Hibernate`, `Maven`, `MySQL`, `H2`, `Lombok` and `TDD` to implement a challenge.
