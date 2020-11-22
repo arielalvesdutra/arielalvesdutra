@@ -1,6 +1,6 @@
 # Java
 
-Bellow I will list the projects that I built with `Java`.
+below I will list the projects that I built with `Java`.
 
 [**Books readings**](https://github.com/arielalvesdutra/books-reading)
 

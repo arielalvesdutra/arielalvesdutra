@@ -1,6 +1,6 @@
 # Node.js
 
-Bellow I will list the projects that I built with `Node.js`.
+below I will list the projects that I built with `Node.js`.
 
 [**Post-Its Backend**](https://github.com/arielalvesdutra/post-it-backend)
 

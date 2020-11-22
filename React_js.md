@@ -1,6 +1,6 @@
 # React.js
 
-Bellow I will list the projects that I built with `React.js`.
+below I will list the projects that I built with `React.js`.
 
 [**Post-Its Frontend**](https://github.com/arielalvesdutra/post-it-frontend).
 

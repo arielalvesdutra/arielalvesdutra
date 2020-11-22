@@ -1,6 +1,6 @@
 # Python
 
-Bellow I will list the projects that I built with `Python`.
+below I will list the projects that I built with `Python`.
 
 [**File random line**](https://github.com/arielalvesdutra/file-random-line).
 
