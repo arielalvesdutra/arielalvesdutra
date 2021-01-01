@@ -2,7 +2,7 @@
 
 Tech books that I'm reading:
 
-- `Fluent Python`
+- `Software Testing: From Theory to Practice - Mauricio Aniche`
 
 Tech books that I already read:
 
@@ -15,3 +15,4 @@ Tech books that I already read:
 - `Clean Coder`
 - `Clean Code`
 - `Scrum: The Art of Doing Twice the Work in Half the Time`
+- `Fluent Python`
