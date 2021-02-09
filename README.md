@@ -1,12 +1,8 @@
 # About
 
-Hi, my name is Ariel Alves Dutra. I'm a Web Software Developer.
+Hi, my name is Ariel Alves Dutra. I'm a Web Software Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS.
 
-I've a graduation of Analysis and System Development (2019) at UNISINOS.
-
-I love code and I believe that it's possible to build good software to make the society better.
-
-# Formal Experience
+# Formal experience
 
 I have 1 year and 9 months of professional experience. 1 year as PHP Developer and 9 months as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
 
@@ -26,9 +22,9 @@ I have 1 year and 9 months of professional experience. 1 year as PHP Developer a
 
 - [react-very-simple-slider](https://www.npmjs.com/package/react-very-simple-slider): it's a NPM React.js Library that I created to learn how to make a NPM Package and to have a `slider` component that attends the necessity that I had.
 
-# Tech Readings
+# Tech readings
 
-- [Tech Readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
+- [Tech readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
 
 # More
 
