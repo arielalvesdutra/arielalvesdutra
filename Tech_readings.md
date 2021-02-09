@@ -1,9 +1,5 @@
 # Tech Readings
 
-Tech books that I'm reading:
-
-- `Software Testing: From Theory to Practice - Mauricio Aniche`
-
 Tech books that I already read:
 
 - `Design Patterns`
@@ -16,3 +12,4 @@ Tech books that I already read:
 - `Clean Code`
 - `Scrum: The Art of Doing Twice the Work in Half the Time`
 - `Fluent Python`
+- `Software Testing: From Theory to Practice - Mauricio Aniche`
