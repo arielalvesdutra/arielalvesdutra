@@ -8,7 +8,7 @@ I love code and I believe that it's possible to build good software to make the 
 
 # Formal Experience
 
-I have 1 year and 4 months of professional experience. 1 year as PHP Developer and 4 months as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
+I have 1 year and 9 months of professional experience. 1 year as PHP Developer and 9 months as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
 
 # Skills
 
