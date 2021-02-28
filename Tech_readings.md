@@ -1,5 +1,9 @@
 # Tech Readings
 
+Tech books that I'm reading:
+
+- `Implementing Domain-Driven Design`
+
 Tech books that I already read:
 
 - `Design Patterns`
