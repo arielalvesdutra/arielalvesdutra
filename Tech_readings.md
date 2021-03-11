@@ -1,4 +1,4 @@
-# Tech Readings
+**Tech Readings**
 
 Tech books that I'm reading:
 
