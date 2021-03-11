@@ -1,6 +1,6 @@
 **About**
 
-Hi, my name is Ariel Alves Dutra. I'm a Web Software Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS.
+Hi, my name is Ariel Alves Dutra. I'm a Web Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS.
 
 **Formal experience**
 
