@@ -4,7 +4,7 @@ Hi, my name is Ariel Alves Dutra. I'm a Web Developer. I've a graduation of Anal
 
 **Formal experience**
 
-I have 1 year and 9 months of professional experience. 1 year as PHP Developer and 9 months as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
+I have 1 year and 11 months of professional experience. 1 year as PHP Developer and 9 months as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
 
 **Skills**
 
