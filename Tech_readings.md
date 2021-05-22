@@ -1,9 +1,5 @@
 **Tech Readings**
 
-Tech books that I'm reading:
-
-- `Implementing Domain-Driven Design`
-
 Tech books that I already read:
 
 - `Design Patterns`
@@ -16,4 +12,5 @@ Tech books that I already read:
 - `Clean Code`
 - `Scrum: The Art of Doing Twice the Work in Half the Time`
 - `Fluent Python`
+- `Implementing Domain-Driven Design`
 - `Software Testing: From Theory to Practice - Mauricio Aniche`
