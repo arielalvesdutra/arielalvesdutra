@@ -2,7 +2,7 @@
 
 Hi, my name is Ariel Alves Dutra. I'm a Web Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS
 
-I have 2 years of professional experience. 1 year as PHP Developer and 1 year as Java Developer. I worked with web development implementing solutions for e-commerce, tourism and freight sectors.
+I have 1 year as PHP developer and more than 2 years as Java Developer. I worked with web development implementing solutions for e-commerce, agrobusiness, tourism and freight sectors.
 
 **Skills**
 
