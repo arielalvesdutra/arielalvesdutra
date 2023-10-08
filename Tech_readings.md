@@ -1,5 +1,9 @@
 **Tech Readings**
 
+Reading:
+
+- `Designing Data-Intensive Applications`
+
 Tech books that I already read:
 
 - `Design Patterns`
