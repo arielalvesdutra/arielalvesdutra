@@ -2,7 +2,7 @@
 
 Hi, my name is Ariel Alves Dutra. I'm a brazilian Web Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS
 
-More than 4 years of experience with web development implementing solutions for e-commerce, agrobusiness, financial, tourism and freight sectors.
+More than 5 years of experience with web development implementing solutions for e-commerce, agrobusiness, financial, tourism and freight sectors.
 
 **Skills**
 
