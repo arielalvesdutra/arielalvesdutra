@@ -2,10 +2,11 @@
 
 Reading:
 
-- `Designing Data-Intensive Applications`
+- (none)
 
 Tech books that I already read:
 
+- `Designing Data-Intensive Applications`
 - `Design Patterns`
 - `Refactoring`
 - `The Pragmatic Programmer`
