@@ -1,8 +1,8 @@
-**About**
+**Sobre**
 
-Hi, my name is Ariel Alves Dutra. I'm a brazilian Web Developer. I've a graduation of Analysis and System Development (2019) at UNISINOS
+Possuo mais de 5 anos de experiência profissional em desenvolvimento de software focados em Backend com Java, dentre os setores de e-commerce, turismo, frete, financeiro e de cartões de benefícios.
 
-More than 5 years of experience with web development implementing solutions for e-commerce, agrobusiness, financial, tourism and freight sectors.
+Perfil colaborativo, dedicado, ágil, conciliador e comprometido com as entregas de valor.
 
 **Skills**
 
@@ -16,15 +16,15 @@ More than 5 years of experience with web development implementing solutions for 
 - [PHP](PHP.md) 
 - -->
 
-**Libraries**
+**Bibliotecas**
 
-- [react-very-simple-slider](https://www.npmjs.com/package/react-very-simple-slider): it's a NPM React.js Library that I created to learn how to make a NPM Package and to have a `slider` component that attends the necessity that I had.
+- [react-very-simple-slider](https://www.npmjs.com/package/react-very-simple-slider): é uma biblioca NPM React.js. Eu criei para aprender como criar uma lib no NPM e porque eu precisava de um slider em um projeto que eu estava praticando.
 
-**Tech readings**
+**Leitura técnicas**
 
 - [Tech readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
 
-**More**
+**Mais**
 
 - [Portfolio Website](https://arielalvesdutra.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/arielalvesdutra/)
