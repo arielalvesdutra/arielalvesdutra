@@ -22,7 +22,7 @@ Perfil colaborativo, dedicado, ágil, conciliador e comprometido com as entregas
 
 - [react-very-simple-slider](https://www.npmjs.com/package/react-very-simple-slider): é uma biblioca NPM React.js. Eu criei para aprender como criar uma lib no NPM e porque eu precisava de um slider em um projeto que eu estava praticando.
 
-**Leitura técnicas**
+**Leituras técnicas**
 
 - [Tech readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
 
