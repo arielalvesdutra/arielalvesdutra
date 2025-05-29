@@ -1,17 +1,19 @@
 **Sobre**
 
-Possuo mais de 5 anos de experiência profissional em desenvolvimento de software focados em Backend com Java, dentre os setores de e-commerce, turismo, frete, financeiro e de cartões de benefícios.
+Possuo mais de 6 anos de experiência profissional em desenvolvimento de software focados em Backend com Java, dentre os setores de e-commerce, turismo, frete, financeiro e de cartões de benefícios.
 
-Experiência com Java 7, Java 8, Java 11, Java 17, Spring Boot, MySQL, Postgres, Oracle, MariaDB, MongoDB, AWS, ECS, Docker, EC2, AWS Lambda, SQS, Kafka, ActiveMQ, SNS, AWS GTW, GitLab, GitHub, jUnit, assertJ, Hibernate, Clean Code, Arquitetura Hexagonal, DDD, TDD, BDD, Microservices, dynamoDB, BFFs, Azure, BitBucket, Kubernetes/Openshift e Power Designer. Stacks complementares também envolvem Python, Reactjs, Angular, NodeJs, Kotlin e Angular.
+Experiência com Java 7, Java 8, Java 11, Java 17, Java 21, Spring Boot, MySQL, Postgres, Oracle, MariaDB, MongoDB, AWS, ECS, Docker, EC2, AWS Lambda, SQS, Kafka, ActiveMQ, SNS, AWS GTW, GitLab, GitHub, jUnit, assertJ, Hibernate, Clean Code, Arquitetura Hexagonal, DDD, TDD, BDD, Microservices, dynamoDB, BFFs, Azure, BitBucket, Kubernetes/Openshift e Power Designer. Stacks complementares também envolvem Python, Reactjs, Angular, NodeJs, Kotlin e Angular.
 
 Perfil colaborativo, dedicado, ágil, conciliador e comprometido com as entregas de valor.
 
 **Skills**
 
-- [React.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/React_js.md)
-- [Node.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Node_js.md)
 - [Java](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Java.md)
+- [React.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/React_js.md)
+- [Kotlin](https://github.com/arielalvesdutra/kotlin-api)
+- [Node.js](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Node_js.md)
 - [Python](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Python.md)
+- [Golang](https://github.com/arielalvesdutra/golang-api-worker)
 <!-- 
 - [jQuery and Bootstrap](jQuery_Bootstrap.md) 
 - [Angular](Angular.md)
@@ -24,7 +26,7 @@ Perfil colaborativo, dedicado, ágil, conciliador e comprometido com as entregas
 
 **Leituras técnicas**
 
-- [Tech readings](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
+- [Leitura Técnicas](https://github.com/arielalvesdutra/arielalvesdutra/blob/master/Tech_readings.md)
 
 **Mais**
 
