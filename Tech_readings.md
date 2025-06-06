@@ -1,10 +1,10 @@
-**Tech Readings**
+**Leitura técnicas**
 
-Reading:
+Lendo:
 
 - (none)
 
-Tech books that I already read:
+Livros técnicos que já li:
 
 - `Designing Data-Intensive Applications`
 - `Design Patterns`
