@@ -1,28 +1,27 @@
 # React.js
 
-below I will list the projects that I built with `React.js`.
+Segue abaixo alguns projetos que desenvolvi com `React.js`..
 
 [**Post-Its Frontend**](https://github.com/arielalvesdutra/post-it-frontend).
 
-Project that I made to practice `React` and to resolve a personal necessity that I had. I created this project in 2019 and I still add some features to this project in 2020.
-
+Projeto que eu fiz para praticar `React` e para atender uma ideia pessoal que tive na época.
 
 [**react-very-simple-slider**](https://github.com/arielalvesdutra/react-very-simple-slider)
 
-I created this project because I wanted to learn how to create a `NPM` package using `React.js`, `Typescript` and `SASS`. I also wanted a `slider` library according to the requirements that I had. 
+Criei esse projeto porque eu gostaria de aprender como criar um pacote `NPM`. Desenvolvi com `React`, `Typescript` e `SASS`. Eu também na época precisa de um componente slider.
 
 [**Portfolio**](https://github.com/arielalvesdutra/arielalvesdutra.github.io)
 
-This is my website portfolio that I made with `React`, `Typescript` and `Automated Tests` (Jest).
+Esse é meu website/portifolio simples que desenvolvi com `React`, `Typescript` e `Testes de Unidade` (Jes)
 
 [**HCRPR**](https://github.com/arielalvesdutra/hcrpr-frontend)
 
-This is a project that I made with `React`, `Redux` and `Typescript` to test a personal hypotheses.
+Projeto que eu fiz para praticar `React`, `Redux` e `Typescript` para testar uma hipótese que tive na época.
 
 [**Hackathon IEEE**](https://github.com/arielalvesdutra/hackathon-ieee-frontend)
 
-Project that I made with `React` in a hackathon challenge in May of 2019.
+Projeto que desenvolvi com `React`´ para um desefio de um hackathon em maio de 2019.
 
 [**Calling Tariff Challenge**](https://github.com/arielalvesdutra/calling-tariff-challenge-frontend)
 
-Project that I developed to implement a challenge, where I used `React` and `Typescript`.
+Projeto que desenvolvi para um desafio de programação, onde usei `React` e `Typescript`..
