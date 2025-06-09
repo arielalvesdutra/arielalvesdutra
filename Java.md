@@ -1,6 +1,6 @@
 # Java
 
-Segue uma lista de projetos que desenvolvi com ``Java`.
+Segue uma lista de projetos que desenvolvi com `Java`.
 
 [**Leituras de livros**](https://github.com/arielalvesdutra/books-reading)
 
@@ -26,7 +26,7 @@ Projeto desenvolvido com `Java 8`, `Spring Boot 2.3`, `Hibernate`, `Maven`, `MyS
 
 Projeto desenvolvido com `Java 8`, `Spring Boot 2.3`, `Hibernate`, `Maven`, `MySQL`, `H2`, `Lombok` e `TDD` para implementar um desafio.
 
-[**Outros repositórios**]
+**Outros repositórios**
 
 Seguem outros repositórios:
 
