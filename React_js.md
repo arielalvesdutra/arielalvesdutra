@@ -1,6 +1,6 @@
 # React.js
 
-Segue abaixo alguns projetos que desenvolvi com `React.js`..
+Segue abaixo alguns projetos que desenvolvi com `React.js`:
 
 [**Post-Its Frontend**](https://github.com/arielalvesdutra/post-it-frontend).
 
