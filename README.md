@@ -2,7 +2,7 @@
 
 Possuo mais de 6 anos de experiência profissional em desenvolvimento de software focados em Backend com Java, dentre os setores de e-commerce, turismo, frete, financeiro e de cartões de benefícios.
 
-Experiência com Java 7, Java 8, Java 11, Java 17, Java 21, Spring Boot, MySQL, Postgres, Oracle, MariaDB, MongoDB, AWS, ECS, Docker, EC2, AWS Lambda, SQS, Kafka, ActiveMQ, SNS, AWS GTW, GitLab, GitHub, jUnit, assertJ, Hibernate, Clean Code, Arquitetura Hexagonal, DDD, TDD, BDD, Microservices, dynamoDB, BFFs, Azure, BitBucket, Kubernetes/Openshift e Power Designer. Stacks complementares também envolvem Python, Reactjs, Angular, NodeJs, Kotlin e Angular.
+Experiência com Java 7, Java 8, Java 11, Java 17, Java 21, Spring Boot, MySQL, Postgres, Oracle, MariaDB, MongoDB, AWS, ECS, Docker, EC2, AWS Lambda, SQS, Kafka, ActiveMQ, SNS, AWS GTW, GitLab, GitHub, jUnit, assertJ, Hibernate, Clean Code, Arquitetura Hexagonal, DDD, TDD, BDD, Microservices, dynamoDB, BFFs, Azure, BitBucket, Kubernetes/Openshift, Reactjs, Typescript e Power Designer. Stacks complementares também envolvem Python, Angular, NodeJs, Kotlin, Angular e Golang.
 
 Perfil colaborativo, dedicado, ágil, conciliador e comprometido com as entregas de valor.
 
